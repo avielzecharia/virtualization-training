@@ -1,0 +1,6 @@
+﻿  bpknock.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bpknock.vcxproj -> D:\study\courses\Virtualization\Training\Patbas\Bpknock\Bpknock\Release\Bpknock.exe

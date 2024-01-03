@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63f52d1a-4826-4fd9-a373-9d1ea0732571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Bpknock.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Bpknock.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Bpknock.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/Bpknock.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/Bpknock.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/Bpknock.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/bpknock.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/Release/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Bpknock/Bpknock/Bpknock/bpknock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/EPT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/EPT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/MSR.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/Main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/Memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/PrintLog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/Processor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/VMExitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/VMX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/VMX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P4 + BPKNOCK Server/MyHypervisorDriver/MyHypervisorDriver/VMXState.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/DOC/Requirements for Implementing the Microsoft Hypervisor Interface.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/DOC/Sol.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/EventInjectAndExceptionBitmap.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/EventInjectAndExceptionBitmap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/HiddenHookExampleExec.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/HiddenHookExampleExec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/SyscallHookExample.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/SyscallHookExample1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Examples/SyscallHookExample2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Hypervisor From Scratch.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Libraries/LDE64x64.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmCommon.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmEpt.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmSegmentRegs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmVmexitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmVmxContextState.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/AsmVmxOperation.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Common.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Dpc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Ept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Ept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Events.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Events.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Exit.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/GlobalVariables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/HiddenHooks.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Hooks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/HypervisorRoutines.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/HypervisorRoutines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/InlineAsm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Invept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Invept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Logging.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Logging.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Msr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/PoolManager.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/PoolManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/PrintLog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Spinlock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/SyscallHook.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Trace.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vmcall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vmcall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vmx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vmx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/VmxRegions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vpid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/MyHypervisorDriver/Vpid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Shared Headers/Configuration.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Hypervisor-From-Scratch/P6 + Hidden Hook/Hypervisor From Scratch/Shared Headers/Definitions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/The FLoor is LaVMM/The Floor is LaVMM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorApp/MyHypervisorApp/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/Source.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/Source.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX++/MyHypervisorDriver/MyHypervisorDriver/SourceAsm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs/cpuid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/VMX_For_BOTs/VMX_For_BOTs/VMX_For_BOTs/cpuid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/DOC/Interrupt Request Level.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorApp/MyHypervisorApp/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/CPU.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Driver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/MSR.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/Processor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P1 - Our First VM !/MyHypervisorDriver/MyHypervisorDriver/VMX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/EPT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/EPT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/MSR.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/Main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/Memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/Processor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/VMX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/VMX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Driver.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/EPT.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Main.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Memory.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Inf2Cat.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Masm.read.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Masm.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/MyHypervisorDriver.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.11780.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.11780.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.8244.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.8244.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.delete.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.timestamp.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHypervisorDriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Processor.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/VMX.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P2 - EPT Initialization/MyHypervisorDriver/MyHypervisorDriver/x64/Release/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/Auditor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/Auditor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/VmcsAuditor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/VmcsAuditor.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/VmcsAuditor.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/VmcsAuditor.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/pch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/VmcsAuditor/pch.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/x64/Release/VmcsAuditor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/x64/Release/VmcsAuditor.iobj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/x64/Release/VmcsAuditor.ipdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/DOC/VMCS-Auditor/x64/Release/VmcsAuditor.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/EPT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/EPT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/MSR.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/Main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/Memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/Processor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/VMExitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/VMX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P3 - Entering Hardware-Virtualized World/MyHypervisorDriver/MyHypervisorDriver/VMX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/MyHypervisorApp.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/MyHypervisorApp.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/MyHypervisorApp.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/stdafx.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/Release/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorApp/MyHypervisorApp/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/EPT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/EPT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/MSR.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/Main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/Memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/PrintLog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/Processor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/ProtectedMode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/VMExitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/VMX.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/VMX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/VMXState.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Driver.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/EPT.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Main.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Memory.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Inf2Cat.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Masm.read.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/Masm.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/MyHypervisorDriver.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.8592.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.8592.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat-expand.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.read.8.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/inf2cat.write.8.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.timestamp.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/signtool.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHyperv.BB17323A.tlog/stampinf.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/MyHypervisorDriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/Processor.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/ProtectedMode.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/VMExitHandler.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/VMX.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/VMXState.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P4 - Virtualizing Running System/MyHypervisorDriver/MyHypervisorDriver/x64/Release/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorApp/MyHypervisorApp/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmCommon.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmEpt.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmSegmentRegs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmVmexitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmVmxContextState.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/AsmVmxOperation.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Common.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Dpc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Ept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Ept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/GlobalVariables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/HypervisorRoutines.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/HypervisorRoutines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/InlineAsm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Invept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Invept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Msr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/PrintLog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Vmcall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Vmcall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Vmx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/Vmx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P5 - EPT++/MyHypervisorDriver/MyHypervisorDriver/VmxRegions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/DOC/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/DOC/Requirements for Implementing the Microsoft Hypervisor Interface.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/DOC/x86 - What is the difference between Trap and Interrupt_ - Stack Overflow.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/EventInjectAndExceptionBitmap.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/EventInjectAndExceptionBitmap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/HiddenHookExampleExec.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/HiddenHookExampleExec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/HiddenHookExampleReadWrite2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/SyscallHookExample.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/SyscallHookExample1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Examples/SyscallHookExample2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Hypervisor From Scratch.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Libraries/LDE64x64.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmCommon.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmEpt.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmSegmentRegs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmVmexitHandler.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmVmxContextState.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/AsmVmxOperation.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Common.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Dpc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Driver.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Ept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Ept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Events.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Events.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Exit.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/GlobalVariables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/HiddenHooks.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Hooks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/HypervisorRoutines.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/HypervisorRoutines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/InlineAsm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Invept.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Invept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Logging.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Logging.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Msr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/MyHypervisorDriver.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/PoolManager.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/PoolManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/PrintLog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Spinlock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/SyscallHook.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Trace.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vmcall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vmcall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vmx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vmx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/VmxRegions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vpid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/MyHypervisorDriver/Vpid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Shared Headers/Configuration.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Hypervisor-From-Scratch/P6 - Hypervisor Magic/Hypervisor From Scratch/Shared Headers/Definitions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/nt/nt.default.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/nt/nt.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/nt/shvos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/nt/shvosx64.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/ntint.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shv.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shv.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shv_x.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shvutil.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shvvmx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shvvmxhv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shvvmxhvx64.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/shvvp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/uefi/shvos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/uefi/shvosx64.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/uefi/simplevisor.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/uefi/uefi.default.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/uefi/uefi.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/SimpleVisor/vmx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/MyHypervisorApp.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorApp/MyHypervisorApp/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/MyHypervisorDriver.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/Source.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/Source.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/VMX++/MyHypervisorDriver/MyHypervisorDriver/SourceAsm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtualization Exercise.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtualization Reading.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Coreinfo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Dbgview.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/OSRLOADER.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2aSboVDaqFaqpEFIMySaeaJpgg9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f52d1a-4826-4fd9-a373-9d1ea0732571" name="Default Changelist" comment="" />
+      <created>1704315102592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704315102592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

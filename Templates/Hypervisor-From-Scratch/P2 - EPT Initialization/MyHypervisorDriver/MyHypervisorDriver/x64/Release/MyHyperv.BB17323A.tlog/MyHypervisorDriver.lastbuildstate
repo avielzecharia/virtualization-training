@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.5:PlatformToolSet=WindowsKernelModeDriver10.0:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.18362.0
+Release|x64|D:\study\courses\Virtualization\Training\Templates\Hypervisor-From-Scratch\Part 4 - Address Translation Using Extended Page Table (EPT)\MyHypervisorDriver\|

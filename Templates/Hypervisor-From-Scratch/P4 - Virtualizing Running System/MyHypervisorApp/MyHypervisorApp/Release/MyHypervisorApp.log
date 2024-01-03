@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  MyHypervisorApp.cpp
+D:\study\courses\Virtualization\Training\Templates\Hypervisor-From-Scratch\P4 - Virtualizing Running System\MyHypervisorApp\MyHypervisorApp\MyHypervisorApp.cpp(87,1): warning C4102: 'VMXNotSupport': unreferenced label
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyHypervisorApp.vcxproj -> D:\study\courses\Virtualization\Training\Templates\Hypervisor-From-Scratch\P4 - Virtualizing Running System\MyHypervisorApp\Release\MyHypervisorApp.exe

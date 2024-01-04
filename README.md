@@ -7,8 +7,8 @@ Windows Virtualization Training for Beginners (2019).
 * `Solution` directory contains the source code solutions for all existing problems.
   * Sometimes, the is also a documentation to read.
 * `Templates` directory contains useful hypervisors related source code.
-  * Comments are added inside the code for better understanding very line.
-  * 
+  * Comments are added inside the code for better understanding.
+  * Dedicated documentations papers and related material is added.
 
 
 ## References ##
